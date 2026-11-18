@@ -1,0 +1,20 @@
+# Secrets and local data - never commit
+settings.json
+services/credentials.json
+*.sqlite
+*.db
+ui/efc_cache.json
+remembered_buyers.json
+Input/
+Output/
+Bot System Files/
+*.log
+expense_bot_debug.txt
+startup_crash.txt
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/

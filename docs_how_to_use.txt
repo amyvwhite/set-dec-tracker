@@ -1,0 +1,10 @@
+# SET DEC TRACKING APP (MASTER TEMPLATE)
+
+## How to use this template for a New Show:
+1. Copy this entire folder into your new show's folder (or rename the copy, e.g. "SHOW NAME - SET DEC APP").
+2. Double-click "Run App.bat" to launch the app.
+3. In the App, click SETTINGS (top right):
+   - Paste your new Google Sheet Tracker URL.
+   - Enter your Expense Company / Location / Account codes for this show.
+   - Click "SAVE CHEAT SHEET & SETTINGS".
+4. Drop your receipts into the "Input" folder and click "PROCESS CREDIT CARDS"!
